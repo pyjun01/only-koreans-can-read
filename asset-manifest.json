@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/onlyKoreansRead/static/js/main.1c1c1a4a.chunk.js",
+    "main.js.map": "/onlyKoreansRead/static/js/main.1c1c1a4a.chunk.js.map",
+    "runtime-main.js": "/onlyKoreansRead/static/js/runtime-main.33f54942.js",
+    "runtime-main.js.map": "/onlyKoreansRead/static/js/runtime-main.33f54942.js.map",
+    "static/js/2.a3a57329.chunk.js": "/onlyKoreansRead/static/js/2.a3a57329.chunk.js",
+    "static/js/2.a3a57329.chunk.js.map": "/onlyKoreansRead/static/js/2.a3a57329.chunk.js.map",
+    "index.html": "/onlyKoreansRead/index.html",
+    "precache-manifest.65a101a3d20569643b931073e50852c0.js": "/onlyKoreansRead/precache-manifest.65a101a3d20569643b931073e50852c0.js",
+    "service-worker.js": "/onlyKoreansRead/service-worker.js",
+    "static/js/2.a3a57329.chunk.js.LICENSE.txt": "/onlyKoreansRead/static/js/2.a3a57329.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/onlyKoreansRead/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f54942.js",
+    "static/js/2.a3a57329.chunk.js",
+    "static/js/main.1c1c1a4a.chunk.js"
+  ]
+}
