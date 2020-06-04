@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "561ef626fd92bc686a088d5396d5f019",
+    "revision": "41469aad5ebdb59d94cf408ab586ee4b",
     "url": "/onlyKoreansRead/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onlyKoreansRead/static/js/2.8d56b37e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef8762e94b348ede501b",
-    "url": "/onlyKoreansRead/static/js/main.b2f8c200.chunk.js"
+    "revision": "f56b6def79cb80e2fc3b",
+    "url": "/onlyKoreansRead/static/js/main.473b72bd.chunk.js"
   },
   {
     "revision": "136814b103572b42a403",
